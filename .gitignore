@@ -1,0 +1,24 @@
+# maven noise
+target/
+/jersey-bundle/src
+
+# osx noise
+.DS_Store
+profile
+
+#IntelliJ Idea noise
+.idea
+*.iws
+*.ipr
+*.iml
+*.releaseBackup
+
+#NB noise
+nbactions.xml
+nb-configuration.xml
+
+#eclipse noise
+.settings
+.settings/*
+.project
+.classpath
